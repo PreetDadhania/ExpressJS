@@ -5,3 +5,10 @@ img{
     height: 300px;
     width: 300px;
 }
+a{
+    padding: 20px;
+}
+.header{
+    width: 370px;
+    border: 2px solid black;
+}
